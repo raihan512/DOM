@@ -1,0 +1,44 @@
+.btn--primary {
+
+    &,
+    &:visited {
+        font-weight: 600;
+        font-size: 1.4rem;
+        text-transform: capitalize;
+        color: $color-white;
+        padding: .5rem 1.5rem;
+
+        background-image: linear-gradient(150deg,
+                $color-primary 0%,
+                $color-primary 50%,
+                $color-primary-dark-2 50%);
+    }
+
+    &:hover {
+        color: $color-white;
+    }
+
+    &:focus,
+    &:active {
+        box-shadow: none;
+    }
+}
+
+.btn--white {
+
+    &,
+    &:visited {
+        font-weight: 500;
+        font-size: 1.4rem;
+        color: $color-primary;
+        padding: 1.5rem 4rem;
+        border-radius: .5rem;
+        text-transform: capitalize;
+        background-color: $color-white;
+    }
+
+    &:active,
+    &:focus {
+        box-shadow: none;
+    }
+}

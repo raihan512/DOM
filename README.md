@@ -3,7 +3,7 @@ DOM stands for document object model where D (documents) come from the concept o
 
 ### Difference between HTML Collection and Node Lists
 -HTMLCollections can be accessed by their name, index, and ID
--Nodelists can be accessed only by their index number
+*Nodelists can be accessed only by their index number
 
 >querySelectorAll & getElementsByName returns node Lists
 

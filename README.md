@@ -11,4 +11,4 @@ DOM stands for document object model where D (documents) come from the concept o
 আর যখন নরমাল HTML element ধরা, চেঞ্জ করার কাজ করব তখন আমরা HTMLCollection নিয়ে কাজ করব।
 
 ### [DOM Animation](https://653c1278ecc63f06a2c2f407--ephemeral-jelly-a69fb0.netlify.app/)
-[GitHub Pages](https://pages.github.com/)
+### [DOM Carousel](https://653c133b569671096a326b27--splendorous-mandazi-453b87.netlify.app/)

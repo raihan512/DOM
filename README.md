@@ -12,6 +12,6 @@ DOM stands for document object model where D (documents) come from the concept o
 
 > [!NOTE]
 > [DOM Animation Live](https://653c1278ecc63f06a2c2f407--ephemeral-jelly-a69fb0.netlify.app/)
-> [DOM Animation Code]([https://653c1278ecc63f06a2c2f407--ephemeral-jelly-a69fb0.netlify.app/](https://github.com/raihan512/DOM/tree/master/DOM%20Animation))
+> [DOM Animation Code](https://github.com/raihan512/DOM/tree/master/DOM%20Animation)
 > [DOM Carousel Live](https://653c133b569671096a326b27--splendorous-mandazi-453b87.netlify.app/)
 > [DOM Carousel Code](https://github.com/raihan512/DOM/tree/master/DOM%20Carousel)
